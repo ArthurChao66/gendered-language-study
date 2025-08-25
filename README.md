@@ -9,4 +9,4 @@ The results reveal a clear contrast:
 This reflects broader social trends: **French expands gender visibility**, while **English reduces gender distinction** to pursue inclusivity.
 
 **[View full paper (PDF)](./gendered-language-study.pdf)**  
-**Appendix & codebook available upon request**
+**[View Appendix Vocabulary Table (CSV)](./appendix.csv)**
